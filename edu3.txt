@@ -1,1 +1,2 @@
-this is the firstbarnch first program and is being modified.
+this is the firstbarnch first program 
+git@github.com:GreatAccount/Intellipat.git
