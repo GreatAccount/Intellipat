@@ -1,2 +1,0 @@
-this is the firstbarnch first program 
-git@github.com:GreatAccount/Intellipat.git
